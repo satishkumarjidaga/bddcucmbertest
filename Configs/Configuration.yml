@@ -1,0 +1,5 @@
+browser=chrome
+windowMaximize=true
+chromedriverpath=//Driver&Jars//chromedriver_win
+url=http://gmail.com
+explicitWait=45;
